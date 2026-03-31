@@ -1,0 +1,43 @@
+[
+  {
+    "slug": "ngothehieu",
+    "name": "Ngô Thế Hiếu",
+    "title": "Kiến trúc sư",
+    "phone": "0 983 239 596",
+    "phoneRaw": "0983239596",
+    "zalo": "0983239596",
+    "facebook": "ngo.the.hieu.849076",
+    "facebookName": "Ngô Thế Hiếu",
+    "avatar": "/ngohieu.png",
+    "email": "ngothehieu@gmail.com",
+    "instagram": "ngothehieu",
+    "theme": "pink"
+  },
+  {
+    "slug": "hoangcongphi",
+    "avatar": "/phihoang.png",
+    "name": "Hoàng Công Phi",
+    "title": "Kiến trúc sư",
+    "phone": "0 354 905 927",
+    "phoneRaw": "0 3549 05927",
+    "zalo": "0354905927",
+    "facebook": "taikhoancanhanPhiHoangg",
+    "facebookName": "Hoàng Công Phi",
+    "email": "phihoangc.k4@gmail.com",
+    "theme": "amber"
+  },
+  {
+    "slug": "longocminh",
+    "name": "Lò Ngọc Minh",
+    "avatar": "/ngocminh.jpg",
+    "title": "mewmew",
+    "phone": "0 366 022 943",
+    "phoneRaw": "0 366 022 943",
+    "zalo": "0366022943",
+    "facebook": "man.thanh.9655806",
+    "facebookName": "Lò Ngọc Minh",
+    "email": "ngocminh.0404204@gmail.com",
+    "instagram": "minh0004",
+    "theme": "pink"
+  }
+]
