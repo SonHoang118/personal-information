@@ -27,6 +27,19 @@
     "theme": "amber"
   },
   {
+    "slug": "phamhoanganh",
+    "avatar": "/hoanganh.png",
+    "name": "Phạm Hoàng Anh",
+    "title": "Kiến trúc sư",
+    "phone": "0965527162",
+    "phoneRaw": "0965527162",
+    "zalo": "0965527162",
+    "facebook": "hoanganh.pham.26868",
+    "facebookName": "Hoang Anh Pham",
+    "email": "hoanganhk59cnttc@gmail.com",
+    "theme": "ocean"
+  },
+  {
     "slug": "longocminh",
     "name": "Lò Ngọc Minh",
     "avatar": "/ngocminh.jpg",
