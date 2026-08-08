@@ -40,6 +40,27 @@
     "theme": "ocean"
   },
   {
+    "slug": "dhstudio",
+    "avatar": "/dhstudio.jpg",
+    "name": "DH Studio",
+    "title": "DHS - Thiết kế và thi công kiến trúc",
+    "phone": "088 881 56 16",
+    "phoneRaw": "0888815616",
+    "zalo": "0888815616",
+    "facebook": "share/1JRT2apiwV/?mibextid=wwXIfr",
+    "facebookName": "DH Studio",
+    "email": "dhs.studio.arch@gmail.com",
+    "theme": "rose"
+  },
+
+
+
+
+
+
+
+
+  {
     "slug": "longocminh",
     "name": "Lò Ngọc Minh",
     "avatar": "/ngocminh.jpg",
